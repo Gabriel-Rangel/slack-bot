@@ -1,9 +1,7 @@
 # Databricks App - Slack Bot
 
 # This is a simple customizable slack bot built to run in Databricks Apps Environment
-<img src="imgs/Slack.gif" width="944" height="468">
-
-<video controls src="imgs/genie_slack.mov" title="Title"></video>
+<img src="imgs/slack_hq.gif" width="944" height="468">
 
 # How to get started
 * Install databricks cli and configure your workspace authentication see here: https://docs.databricks.com/en/dev-tools/cli/install.html
