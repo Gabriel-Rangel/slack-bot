@@ -1,8 +1,8 @@
 # Databricks App - Genie Bot on Slack
 
-# This is a simple Genie Bot on Slack deployed on Databricks APP
+## This is a simple Genie Bot on Slack deployed on Databricks APP
 
-This repository builds upon the [Databricks Slack Bot](https://github.com/alex-lopes-databricks/databricks_apps_collection/tree/main/slack-bot) by [Alex Lopes](https://github.com/alex-lopes-databricks), enabling users to deploy a Slack app directly within Databricks Apps. The main enhancement is seamless integration with Databricks Genie, allowing users to interact with Genie through Slack.
+This repository builds upon the [Databricks Slack Bot](https://github.com/alex-lopes-databricks/databricks_apps_collection/tree/main/slack-bot) by [Alex Lopes](https://github.com/alex-lopes-databricks), enabling users to deploy a Slack app directly within Databricks Apps. The main enhancement is seamless integration with Databricks Genie, allowing users to interact with Genie through Slack. </br></br>
 <img src="imgs/slack_hq.gif" width="944" height="468">
 
 # How to get started
@@ -22,6 +22,7 @@ This repository builds upon the [Databricks Slack Bot](https://github.com/alex-l
 
 * Use the json manifest file contained in this project and customize with your application name if needed
 * In the main page after the app is created (Basic Information Menu) scroll down and click to generate an App level token select the option "connections:write" and click generate the token will be displayed save it and use it in the process of creating secrets 
+
 <img src="imgs/app-level-token.png" width="300" height="280"> </br>
 
 * On the left panel select the option install App select the workspace you want your app installed after it is installed a bot user token will be displayed save it and use in the secrets process
