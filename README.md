@@ -18,8 +18,10 @@ This repository builds upon the [Databricks Slack Bot](https://github.com/alex-l
 
 * Create a slack account if you do not have one, also in the process you can choose to create a slack workspace for testing it has free options: https://slack.com/help/articles/206845317-Create-a-Slack-workspace
 * In your account look for the apps page and select create new app: 
-
-<img src="imgs/create_new_app.png" width="425" height="187"> </br>
+<p align="center">
+    <img src="imgs/create_new_app.png" width="425" height="187"> </br>
+</p>
+</br>
 
 * Use the json manifest file contained in this project and customize with your application name if needed
 * In the main page after the app is created (Basic Information Menu) scroll down and click to generate an App level token select the option "connections:write" and click generate the token will be displayed save it and use it in the process of creating secrets:
