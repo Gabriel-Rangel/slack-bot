@@ -1,0 +1,8 @@
+*.venv*
+*.env*
+*.databricks*
+*.DS_Store*
+.DS_Store
+.vscode/
+.databricks/
+create_secrete.py
